@@ -1,6 +1,6 @@
 
 
-This is the project for training three machine learning models for online payment fraud detection using the dataset. 
+This is the project for training three machine learning models for online payment fraud detection using the dataset. Exploratory Data Analysis will also be performed.
 
   
 Machine Learning Model Used:
