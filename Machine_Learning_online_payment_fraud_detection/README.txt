@@ -8,6 +8,7 @@ Decision Tree
 Logistic Regression
 Random Forest
 
+The number of data used is 6362620.
 
 The dataset consist of the variable listed below:
 1: steps (represents a unit of time where 1 step equals 1 hour)
