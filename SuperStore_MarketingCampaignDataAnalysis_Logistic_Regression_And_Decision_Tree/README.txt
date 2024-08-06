@@ -26,6 +26,7 @@ One hot encoding
 Label encoding
 
 Metrics used:
+
 accuracy
 f1 score
 precision
